@@ -8,11 +8,6 @@
 
 ## 📋 Table of Contents
 
-
-- [English Version | Versión en Español](#english-version--versión-en-español)
-  - [English Version](#english-version)
-- [🚀 PLC Control System for Motor Operation using Siemens S7-1200, HMI, and VFD](#-plc-control-system-for-motor-operation-using-siemens-s7-1200-hmi-and-vfd)
-  - [📋 Table of Contents](#-table-of-contents)
   - [🎥Project Overview](#project-overview)
   - [🌟 Introduction](#-introduction)
   - [⚙️ Project Features](#️-project-features)
@@ -104,22 +99,7 @@ The HMI is designed with **ISA-101 standards**, ensuring a consistent and intuit
 
 ## 📋 Tabla de Contenidos
 
-- [English Version | Versión en Español](#english-version--versión-en-español)
-  - [English Version](#english-version)
-- [🚀 PLC Control System for Motor Operation using Siemens S7-1200, HMI, and VFD](#-plc-control-system-for-motor-operation-using-siemens-s7-1200-hmi-and-vfd)
-  - [📋 Table of Contents](#-table-of-contents)
-  - [🎥Project Overview](#project-overview)
-  - [🌟 Introduction](#-introduction)
-  - [⚙️ Project Features](#️-project-features)
-  - [🛠 Requirements](#-requirements)
-    - [🔧 Manual Mode](#-manual-mode)
-    - [⚙️ Automatic Mode](#️-automatic-mode)
-    - [🖥️ HMI Interface](#️-hmi-interface)
-    - [🚩 Challenges](#-challenges)
-  - [Versión en Español](#versión-en-español)
-- [🚀 Sistema de Control PLC para la Operación de Motor usando Siemens S7-1200, HMI y VFD](#-sistema-de-control-plc-para-la-operación-de-motor-usando-siemens-s7-1200-hmi-y-vfd)
-  - [📋 Tabla de Contenidos](#-tabla-de-contenidos)
-  - [🎥 Descripción del Proyecto](#-descripción-del-proyecto)
+  - [🎥 Vídeo del Proyecto](#-Vídeo-del-proyecto)
   - [🌟 Introducción](#-introducción)
   - [⚙️ Características del Proyecto](#️-características-del-proyecto)
   - [🛠 Requisitos](#-requisitos)
@@ -130,7 +110,7 @@ The HMI is designed with **ISA-101 standards**, ensuring a consistent and intuit
 
 ---
 
-## 🎥 Descripción del Proyecto
+## 🎥 Vídeo del Proyecto
 
 [![Control de Perfil de Velocidad - Demo](https://img.youtube.com/vi/550VNGQESG8/0.jpg)](https://youtu.be/550VNGQESG8)
 
